@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQYABgAAADAzMzMzMz///////+83d29zLvb3d3d3f3c3d3d+8zM/MzMzP/c3d3d+8zM+8zMu//c3d3d+zPD+8zMu//c3d3d+zPD/WbG3f/c3d3d+8zM/czM3f/c3d3d+2bG/TPD3f/c3d3d+8zM/TPD3f/c3d3d+0TE/czM3f/c3d3d+0TE/UTM3f/c3d3d+8zM/czM3f/c3d3d+zPM/WbG3f/c3d3d+8zM/czM3f/c3d3d+3fH/UTE3f/c3d3d+8zM/UTE3f/c3d3d+2bG/czM3f/c3d3d+2bG/TPM3f/c3d3d+8zM/czM3f/c3d3d+zPD+3fHu//c3d3d+8zM+8zMu//c3d3d+8zM/MzMzP+83d29zLvb3d3d3f3AzMzMzMz///////8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bookself"
+    },
+    "image2": {
+        "data": "hwQYABAAAAAAAADMzMzMDADMzFNVNcwMwFVVU1VVM8zcVTPDzMwzvFw1MzxVVTO8XDUzXFVVM8xcNTNcVVUzDFw1M1xVVTMMXDUzXFVVMwxcNTNcVVUzDFw1M1xVVTMMXDUzXFVVMwxcNTNcVVUzDFw1M1xVVTMMXDUzXFVVMwxcNTNcVVUzDFw1M1xVVTMMXDUzXFVVMwxcNTNcVVUzzFw1MzxVVTO83FUzw8zMM7zAVVVTVVUzzADMzFNVNcwMAAAAzMzMzAw=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "projectile"
+    },
+    "image3": {
+        "data": "hwQgABgAAAAAu7u7u7u7u7u7uwAwOzs7Ozs7Ozs7OwvTPTs7Ozs7Ozs73QvbPd3d3d3d3d093bsz0z0zMzMzMzPdM7O73TMzMzMzMzPTvbszPTMzMzMzMzMzPbO7PdMzMzPTMzMzvbszPTMzMzMzMzMzPbO7PTMzMzMzMzMzvbszPTMzMzMzMzMzPbO7PTMz0zMzM9MzvbszPTMzMzMzMzMzPbO7PTMzMzMzMzMzvbszPTMzMzMzMzMzPbO7PdMzMzPTMzMzvbszPTMzMzMzMzMzPbO7PTMzMzMzMzMzvbszPTMzMzMzMzMzPbO7PTMz0zMzMzMzvbszPTMzMzMzM9MzPbO7PTMzMzMzMzMzvbszPTMzMzMzMzMzPbO7PdMzMzPTMzMzvbszPTMzMzMzMzMzPbO7PTMzMzMzMzMzvbsz3TMzMzMzMzPTPbO70z0zMzMzMzPds7vTPd3d3d3d3d093bPbPTs7Ozs7Ozs73QswOzs7Ozs7Ozs7OwsAu7u7u7u7u7u7uwA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
